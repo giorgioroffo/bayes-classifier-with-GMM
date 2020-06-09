@@ -1,3 +1,4 @@
+# Generative Models
 # Bayes Classifier with Gaussian Mixture Models to generate handwritten images
 
 Dataset used in this template is MNIST. You can change the dataset and implement the loading function in utils.py
